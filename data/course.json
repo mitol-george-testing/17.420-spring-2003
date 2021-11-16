@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "95cfcb22-6e34-0f5e-6f0a-0947d35a8b07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advances in International Relations Theory",
+  "course_description": "This course offers a critical analysis of contending theories of international relations. Focus is on alternative theoretical assumptions, different analytical structures, and a common core of concepts and content. It also focuses on a comparative analysis of realism(s), liberalism(s), institutionalism(s), and new emergent theories. It also presents a discussion of connections between theories of international relations and major changes in international relations.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.420",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
